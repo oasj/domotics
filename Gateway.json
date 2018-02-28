@@ -1,0 +1,1 @@
+{"name":"Gateway","master":true,"version":"0.0.1","description":"","schemas":{},"models":{},"behaviors":{"l19d9f191b415a3c":{"_id":"l19d9f191b415a3c","component":"u15edc1fad3132c6","state":"start","action":"function start() { \n\t\n}","useCoreAPI":false,"core":false}},"types":{},"components":{},"_id":"u15edc1fad3132c6"}
