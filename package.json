@@ -1,0 +1,13 @@
+{
+  "name": "Gateway",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./Gateway.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oasj/domotics"
+  },
+  "dependencies": {
+    "system-runtime": "^2.4.1"
+  }
+}
